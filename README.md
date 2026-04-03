@@ -38,15 +38,16 @@ Validar funcionalidades da API através de testes positivos e negativos.
 ##  Estrutura
 
 api-testing-serverest/
+```
 ├── postman/
 ├── evidences/
 ├── docs/
 └── README.md
-
+```
 
 ---
 
-## ▶️ Como executar
+##  Como executar
 
 1. Importar a collection no Postman  
 2. Executar os requests  
@@ -54,6 +55,6 @@ api-testing-serverest/
 
 ---
 
-## 📸 Evidências
+##  Evidências
 
 Os prints dos testes estão na pasta `evidences/`.
