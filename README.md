@@ -38,7 +38,6 @@ Validar funcionalidades da API através de testes positivos e negativos.
 ##  Estrutura
 
 api-testing-serverest/
-
 ├── postman/
 ├── evidences/
 ├── docs/
